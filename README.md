@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Dina Alshaikh
 
-<!--
-**dinaalsheikh/dinaalsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS50 Certified Junior Software Developer**  
+Focused on learning, building projects, and improving problem‑solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** C, Python, SQL, HTML, CSS, JavaScript  
+- **Concepts:** Data Structures, Algorithms, Debugging  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+
+### 🧩 Command-line C Programs
+- CS50-style programs demonstrating memory management and algorithms.
+- Examples:
+  - Text analyzer
+  - Encryption/Decryption tool
+  - File processing utilities
+
+### 🐍 Python Automation Scripts
+- Scripts for automating repetitive tasks and data handling.
+- Examples:
+  - File organizer script
+  - CSV processor
+  - Simple API fetcher
+
+### 🌐 Web Development Projects
+- Frontend projects using HTML, CSS, and JavaScript.
+- Examples:
+  - Portfolio website
+  - Responsive landing page
+
+---
+
+## 📫 Contact Me
+- **Email:** dina.dev07@gmail.com 
+- **Upwork:** [https://www.upwork.com/freelancers/adamnoor ](https://www.upwork.com/freelancers/~01cb8e4ca760270819) 
+- **GitHub:** [https://github.com/adam-noor](https://github.com/dinaalsheikh)  
+
