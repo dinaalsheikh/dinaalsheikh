@@ -38,6 +38,6 @@ Focused on learning, building projects, and improving problem‑solving skills.
 
 ## 📫 Contact Me
 - **Email:** dina.dev07@gmail.com 
-- **Upwork:** (https://www.upwork.com/freelancers/~01cb8e4ca760270819) 
-- **GitHub:** (https://github.com/dinaalsheikh)  
+- **Upwork:** https://www.upwork.com/freelancers/~01cb8e4ca760270819
+- **GitHub:** https://github.com/dinaalsheikh
 
